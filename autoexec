@@ -1,0 +1,7 @@
+print("Ro api is Injected!")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "RoAPI Injected!",
+    Text = "RoAPI Injected! dsc.gg/roapi",
+    Icon = "rbxassetid://94736232264592",
+    Duration = 8
+})
