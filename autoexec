@@ -1,14 +1,14 @@
-print("RoAPI Injected!")
+print("Riviera is injected!")
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "RoAPI Injected!",
-    Text = "Injected RoAPI!",
+    Title = "Riviera Injected!",
+    Text = "Inected Riviera!",
     Icon = "rbxassetid://",
     Duration = 8
 })
 wait(8)
-print("http://dsc.gg/roapi")
+print("https://discord.gg/KF7uVsKM")
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "http://dsc.gg/roapi",
-    Text = "http://dsc.gg/roapi",
+    Title = "https://discord.gg/KF7uVsKM",
+    Text = "https://discord.gg/KF7uVsKM",
     Icon = "rbxassetid://",
     Duration = 7
